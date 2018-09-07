@@ -1,3 +1,5 @@
+This project has been archived. Find the recent version at https://github.com/VirtualDisgrace/peanut ♥
+
 #### Hi!
 
 Wendy's OpenCollar Distribution is a collection of little open source programs, built by residents of the Second Life® virtual world and published by virtualdisgrace.com. This collection can be used to create role play toys for various applications, and for individual user needs.
