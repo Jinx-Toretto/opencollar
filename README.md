@@ -1,4 +1,4 @@
-This project has been archived. Find the recent version at https://github.com/VirtualDisgrace/peanut ♥
+# This project has been archived. Find the recent version at https://github.com/VirtualDisgrace/peanut ♥
 
 #### Hi!
 
